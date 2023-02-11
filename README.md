@@ -1,3 +1,12 @@
+
+<h1>Flowers Shop Demo</h1>
+
+
+
+https://user-images.githubusercontent.com/119087772/218284041-332451e5-fb28-41ae-bbbe-eace8d398dc1.mp4
+
+
+
 # vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
